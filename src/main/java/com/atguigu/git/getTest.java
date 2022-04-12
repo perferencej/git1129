@@ -9,5 +9,6 @@ public class getTest {
         System.out.println("hollo test");
         System.out.println("hollo test2");
         System.out.println("hollo test3");
+        System.out.println("hollo test4");
     }
 }
