@@ -6,5 +6,6 @@ public class getTest {
         System.out.println("git test1");
         System.out.println("hot-fix test");
         System.out.println("master test");
+        System.out.println("hollo test");
     }
 }
